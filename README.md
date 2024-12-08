@@ -60,4 +60,4 @@ This is a simple console-based banking system built using **Python** and **SQLit
    Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ## License 📜
-  This project is open-source and available under the MIT License.
+   This project is open-source and available under the MIT License.
