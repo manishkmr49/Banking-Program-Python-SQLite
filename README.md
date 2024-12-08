@@ -43,12 +43,13 @@ This is a simple console-based banking system built using **Python** and **SQLit
    Please note your account number.
 
 2. **Menu Options**
+   ```plaintext
    📋 MENU 📋
-1️⃣ Deposit Money
-2️⃣ Withdraw Money
-3️⃣ Check Balance
-4️⃣ View Account Info
-5️⃣ Exit
+   1️⃣ Deposit Money
+   2️⃣ Withdraw Money
+   3️⃣ Check Balance
+   4️⃣ View Account Info
+   5️⃣ Exit
 
 ## Future Enhancements ✨
    Implementing multi-user access.
