@@ -32,11 +32,15 @@ This is a simple console-based banking system built using **Python** and **SQLit
 - SQLite3 (built into Python)
 
 ## Screenshots 📸
+
 1. **Welcome Screen**
+   ```plaintext
    *****       Welcome to AAA BANK    *****
-Enter account holder's name: Manish Kumar
-✅ Account successfully created for Manish Kumar!
-Please note your account number.
+   
+   Enter account holder's name: Manish Kumar
+
+   ✅ Account successfully created for Manish Kumar!
+   Please note your account number.
 
 2. **Menu Options**
    📋 MENU 📋
