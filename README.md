@@ -52,9 +52,9 @@ This is a simple console-based banking system built using **Python** and **SQLit
    5️⃣ Exit
 
 ## Future Enhancements ✨
-   Implementing multi-user access.
-   Adding encryption for sensitive data.
-   Building a GUI-based application using Tkinter or PyQt.
+  - Implementing multi-user access.
+  - Adding encryption for sensitive data.
+  - Building a GUI-based application using Tkinter or PyQt.
 
 ## Contributing 🤝
    Contributions are welcome! Feel free to fork the repository and submit a pull request.
